@@ -5,7 +5,7 @@ Hello;
 WIF2003 - Web Programming Project
 
 Project Title: 
-Online Charity Project Management System
+BeneConnect
 
 Descriptions:
 This system is intended to help the charitable / non-profit organisations to manage
